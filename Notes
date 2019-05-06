@@ -1,0 +1,7 @@
+git remote add upstream https://github.com/kisonecat/data-bootcamp
+git remote -v
+git pull upstream master
+git push origin master
+
+
+^ is XOR
