@@ -4,4 +4,8 @@ git pull upstream master
 git push origin master
 
 
+x="string"
+?x.isdecimal()
+help(x.isdecimal())
+
 ^ is XOR
